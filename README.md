@@ -1,10 +1,8 @@
 # Instagram Clone
 
-## 11/10/2020
-
 ### By: TaeVon Lewis
 
-[Website](https://github.com/lewist13)
+[Github](https://github.com/lewist13)
 
 ---
 
