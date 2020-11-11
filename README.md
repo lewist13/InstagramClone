@@ -31,7 +31,7 @@ Create your own posts using pictures or videos after signing up and login.
 
 ## Future Updates
 
-- [ ] Create backend which includes signup and login
-- [ ] Be able to display sign up and login
+- [x] Create front-end that displays nav bar
+- [ ] Be able to sign up and login
 
 ---
